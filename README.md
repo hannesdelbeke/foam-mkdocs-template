@@ -18,7 +18,7 @@ This template use [mkdocs](https://www.mkdocs.org/user-guide/configuration/), [m
 ## Usage：Deploy to github page
 
 1. fork this repository
-2. go to repo `setting -> action -> workflow permissions` change to `read and write permissions`
+2. (optional) My settings were already set to this. go to repo `setting -> action -> workflow permissions` change to `read and write permissions`
 3. copy `.github mkdocs.yml requirements.txt` to your repo, and create `docs` directory 
 4. add your documents to `docs` , `docs/index.md` is the main page of the website
 5. open `mkdocs.yml`, modify `site_name` to your website name, this file is the setting of website, visit link below to get more information(for example, you may want to change language to en)
