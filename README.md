@@ -3,7 +3,8 @@
 
 ![foam-mkdocs-template-png](demo-mkdocs.png)
 
-* Share your **foam/obsidian/markdown** notes in a simple and intuitive way ! Support [[roamlike link]] 
+* Share your **foam/obsidian/markdown** notes in a simple and intuitive way ! 
+* Support wikilinks (= roam links) [[roamlike link]] 
 
 This template use [mkdocs](https://www.mkdocs.org/user-guide/configuration/), [mkdocs-material](https://squidfunk.github.io/mkdocs-material/), [mkdocs-roamlinks-plugin](https://github.com/Jackiexiao/mkdocs-roamlinks-plugin) and many mkdocs plugins.
 
